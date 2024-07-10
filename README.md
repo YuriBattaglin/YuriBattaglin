@@ -1,6 +1,6 @@
-# Yuri Battaglin's README.md
+## Yuri Battaglin's README.md
 
-## Hello! I'm Yuri. You can see my GitHub data and some social media accounts below! 🦥
+Hello! I'm Yuri. You can see my GitHub data and some social media accounts below! 🦥
 
  <div>
   <a href="https://github.com/YuriBattaglin">
