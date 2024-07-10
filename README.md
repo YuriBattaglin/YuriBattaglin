@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriBattaglin&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 
-   
+##
  
 <div> 
   <a href="https://www.linkedin.com/in/yuribattaglin" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
