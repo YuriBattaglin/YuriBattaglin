@@ -1,5 +1,7 @@
-## Hello! I'm Yuri 🦥
- 
+# Yuri Battaglin's README.md
+
+## Hello! I'm Yuri. You can see my GitHub data and some social media accounts below! 🦥
+
  <div>
   <a href="https://github.com/YuriBattaglin">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YuriBattaglin&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
