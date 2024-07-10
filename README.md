@@ -1,4 +1,4 @@
-## Hello! I'm Yuri 🦥
+## Hello! I'm Yuri Battaglin 🦥
  <div>
   <a href="https://github.com/YuriBattaglin">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YuriBattaglin&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
