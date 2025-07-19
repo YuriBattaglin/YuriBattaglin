@@ -1,14 +1,10 @@
 <h2 align="left">Hello! I'm Yuri. You can see my GitHub data and some social media accounts below! 🦥</h2>
 
-###
-
  <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YuriBattaglin&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriBattaglin&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 
 <img align="right" height="150" src="https://media1.tenor.com/m/5ry-200hErMAAAAd/hacker-hacker-man.gif"  />
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -38,8 +34,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
-###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/yuribattaglin" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:yuribattaglin@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -47,10 +41,6 @@
   <a href="https://www.twitch.tv/yurinbt" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 </div>
 
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/yuribattaglin/yuribattaglin/output/snake.svg" alt="Snake animation" />
-
-###
